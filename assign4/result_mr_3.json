@@ -1,0 +1,8 @@
+MongoDB shell version v4.4.1
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("cd3abeb9-1dce-45d5-b09c-e048750173a8") }
+MongoDB server version: 4.4.1
+uncaught exception: ReferenceError: finalize is not defined :
+@query_mr_3.js:22:5
+failed to load: query_mr_3.js
+exiting with code -3

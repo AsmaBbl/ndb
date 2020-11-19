@@ -1,0 +1,6 @@
+MongoDB shell version v4.4.1
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("2b03f6e9-b8da-4db3-9db8-ab011daec270") }
+MongoDB server version: 4.4.1
+{ "result" : "moneyAmount", "ok" : 1 }
+
